@@ -18,20 +18,11 @@ const doggie2 = {
     phone: '',
     favoriteToy: ''
 };
-const doggie3 = {
-    id: new uuid(),
-    name: 'hoppy',
-    height: 50,
-    weight: 15,
-    owner: 'Philip',
-    phone: '',
-    favoriteToy: ''
-};
 const doggie4 = {
     id: new uuid(),
     name: 'hoppy',
     height: 50,
-    weight: 15,
+    weight: 20,
     owner: 'Philip',
     phone: '0549411111',
     favoriteToy: ''
