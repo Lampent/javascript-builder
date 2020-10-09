@@ -86,7 +86,19 @@ class DoggieBuilder {
 }
 
 // now are code will look like that
-const doggie1 = new DoggieBuilder('rocky').setHeight(50).setWeight(20).build();
-const doggie2 = new DoggieBuilder('tropy').setHeight(50).setWeight(40).setOwner('Ted').build();
-const doggie3 = new DoggieBuilder('hoppy').setHeight(50).setWeight(20).setOwner('Philip').setPhone('054941111').build();
+const doggie1 = new DoggieBuilder('rocky')
+    .setHeight(50)
+    .setWeight(20)
+    .build();
+const doggie2 = new DoggieBuilder('tropy')
+    .setHeight(50)
+    .setWeight(40)
+    .setOwner('Ted')
+    .build();
+const doggie3 = new DoggieBuilder('hoppy')
+    .setHeight(50)
+    .setWeight(20)
+    .setOwner('Philip')
+    .setPhone('054941111')
+    .build();
 
