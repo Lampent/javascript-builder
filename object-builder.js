@@ -18,7 +18,7 @@ const doggie2 = {
     phone: '',
     favoriteToy: ''
 };
-const doggie4 = {
+const doggie3 = {
     id: new uuid(),
     name: 'hoppy',
     height: 50,
